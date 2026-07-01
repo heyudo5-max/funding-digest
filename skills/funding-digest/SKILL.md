@@ -7,6 +7,18 @@ The audience is **startup founders** (building, raising, or eyeing an exit) and 
 
 ---
 
+## Quick Start
+
+```
+Read skills/funding-digest/SKILL.md and produce the weekly digest for last week or for monthly/quarterly/annual
+
+Read skills/funding-digest/SKILL.md and do the monthly digest for June 2026.
+```
+
+That's it. Claude will research and aggregate insights on funding activity and create a video script.
+
+---
+
 ## When to run this skill
 - Sharing a period round-up of recent VC activity
 
