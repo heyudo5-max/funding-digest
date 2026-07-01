@@ -10,7 +10,7 @@ The audience is **startup founders** (building, raising, or eyeing an exit) and 
 ## Quick Start
 
 ```
-Read skills/funding-digest/SKILL.md and produce the weekly digest for last week or for monthly/quarterly/annual
+Read skills/funding-digest/SKILL.md and produce the weekly digest for last week or for monthly/quarterly/annual 
 
 Read skills/funding-digest/SKILL.md and do the monthly digest for June 2026.
 ```
